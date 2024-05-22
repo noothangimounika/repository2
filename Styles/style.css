@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+caption{
+    color:blue;
+}
+table{
+    background-color:blueviolet;
+    text-align: center;
+}
+input
+{
+    color:green;
+}
+ 
